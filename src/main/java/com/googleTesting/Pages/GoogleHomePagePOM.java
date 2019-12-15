@@ -2,6 +2,8 @@ package com.googleTesting.Pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+//Page Factory for Googl Home page by Sudheer
+
 public class GoogleHomePagePOM {
 	
 	By logo_HomePage=By.xpath("//*[@id=\"hplogo\"]");
